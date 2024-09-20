@@ -1,1 +1,15 @@
 traefik/whoami:v1.10
+nacos/nacos-server:v2.2.3-slim
+mysql:8.0.32
+phpmyadmin:5.2.1
+redis:6.2
+spryker/redis-commander:0.8.0
+rabbitmq:3.12.9
+zookeeper:3.9.0
+canal/canal-server:v1.1.7
+coopersoft/canal-adapter:v1.1.6
+elasticsearch:7.17.14
+kibana:7.17.14
+xuxueli/xxl-job-admin:2.4.1
+bitnami/prometheus:2.47.2
+grafana/grafana:10.2.0
